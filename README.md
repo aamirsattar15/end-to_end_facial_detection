@@ -1,4 +1,4 @@
-# Emotion Detection Project
+# Facial Emotion Detection using Transfer Learning
 
 ## Overview
 
